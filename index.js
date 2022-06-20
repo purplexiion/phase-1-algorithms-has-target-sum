@@ -7,11 +7,6 @@ function hasTargetSum(array, target) {
     }
     return false
 }
-hasTargetSum([3, 8, 12, 4, 11, 7], 10)
-hasTargetSum([2, 2, 3, 3], 4)
-    /* 
-      Write the Big O time complexity of your function here
-    */
 
 /* 
   Add your pseudocode here
